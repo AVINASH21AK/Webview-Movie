@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2320fa</color>
+    <color name="colorPrimaryDark">#0400ff</color>
+
+
+    <color name="black">#000000</color>
+    <color name="blackTR50">#80000000</color>
+    <color name="blackTR20">#33000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="whiteTR50">#33ffffff</color>
+
+
+    <color name="transparent_whiteShade">#80FFFFFF</color>
+    <color name="transparent_blackShade">#80000000</color>
+
+    <!-- Text Color -->
+    <color name="baseTitle">#ffffff</color>
+    <color name="edittext_underline">#787575</color>
+    <color name="edittext_inputtext">#000000</color>
+
+
+</resources>
+
+
+
+
+<!-- Transparency Hex color code - https://stackoverflow.com/questions/15852122/hex-transparency-in-colors
+100% — FF
+95% — F2
+90% — E6
+85% — D9
+80% — CC
+75% — BF
+70% — B3
+65% — A6
+60% — 99
+55% — 8C
+50% — 80
+45% — 73
+40% — 66
+35% — 59
+30% — 4D
+25% — 40
+20% — 33
+15% — 26
+10% — 1A
+5% — 0D
+0% — 00
+-->

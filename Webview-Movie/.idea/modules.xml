@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Android_Examples\Avinash Kahar\Common Project\CommonProject\Relience.iml" filepath="D:\Android_Examples\Avinash Kahar\Common Project\CommonProject\Relience.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Webview-Movie.iml" filepath="$PROJECT_DIR$/Webview-Movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adblockwebview/adblockwebview.iml" filepath="$PROJECT_DIR$/adblockwebview/adblockwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
